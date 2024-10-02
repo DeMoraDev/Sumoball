@@ -13,6 +13,7 @@ This repository contains the documentation and overview of a real-time online ga
 
 ### Achievements
 -The game generated some revenue post-launch.
+
 -The game attracted a fairly substantial player base and received positive feedback from users.
 
 ### Current Status
